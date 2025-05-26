@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JPC</string>
+    <string name="locations">
+        <item>Location 1</item>
+        <item>Location 2</item>
+        <item>Location 3</item>
+    </string>
 </resources>
