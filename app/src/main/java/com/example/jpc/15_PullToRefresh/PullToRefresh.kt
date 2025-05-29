@@ -41,7 +41,7 @@ fun PullToRefreshCustomIndicatorSample(
 
     val state = rememberPullToRefreshState()
 
-    PullToRefreshBox()
+    //PullToRefreshBox()
 }
 
 

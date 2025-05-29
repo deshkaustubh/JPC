@@ -49,9 +49,9 @@ fun SimpleSearchBar(
         .fillMaxSize()
         .padding(16.dp)
         .semantics { isTraversalGroup = true }) {
-        SearchBar(
-            modifier = Modifier.align(Alignment.TopCenter).semantics { isTraversalGroup = true },
-
-        ) { }
+//        SearchBar(
+//            modifier = Modifier.align(Alignment.TopCenter).semantics { isTraversalGroup = true },
+//
+//        ) { }
     }
 }
