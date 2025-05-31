@@ -62,4 +62,13 @@ dependencies {
 
     //For Material Icons
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
+
+    // Navigation
+    implementation("androidx.navigation:navigation-compose:2.8.0-beta06")
+
+    // Serialization
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+
+    //custem bottom nev bar
+    implementation ("com.canopas.compose-animated-navigationbar:bottombar:1.0.1")
 }
